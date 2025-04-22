@@ -1,0 +1,21 @@
+{
+  "/api/clientes/route": "app/api/clientes/route.js",
+  "/api/encomendas/route": "app/api/encomendas/route.js",
+  "/api/encomendas/[id]/entregar/route": "app/api/encomendas/[id]/entregar/route.js",
+  "/api/estoque/route": "app/api/estoque/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/importacao/route": "app/api/importacao/route.js",
+  "/api/postura/route": "app/api/postura/route.js",
+  "/api/relatorios/route": "app/api/relatorios/route.js",
+  "/api/testes/route": "app/api/testes/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/clientes/page": "app/clientes/page.js",
+  "/estoque/page": "app/estoque/page.js",
+  "/importacao/page": "app/importacao/page.js",
+  "/page": "app/page.js",
+  "/encomendas/page": "app/encomendas/page.js",
+  "/relatorios/page": "app/relatorios/page.js",
+  "/testes/page": "app/testes/page.js",
+  "/postura/page": "app/postura/page.js"
+}
